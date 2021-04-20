@@ -1,0 +1,9 @@
+{
+    "scm.inputFontSize": 10,
+    "debug.console.fontSize": 10,
+    "markdown.preview.fontSize": 12,
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.fontSize": 15,
+    "window.zoomLevel": -0.55,
+    "python.pythonPath": "/Users/dranard/.local/share/virtualenvs/crypto_alert-YY0J6Eok/bin/python"
+}
