@@ -63,3 +63,6 @@ python3 crypto.py
     Open to Suggestions on this:
         - maybe coinbase
         - leaning towards uphold though
+
+- Use Twitter API with an NLP model to predict the futures of Crypto
+        - Use the [Twitter API Python Library](https://python-twitter.readthedocs.io/en/latest/)
